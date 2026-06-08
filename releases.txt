@@ -1,7 +1,4 @@
 # Quicklisp dist release index — denzuko
-# Format: project-name  url  size  md5  sha1  prefix  files...
-# GitHub auto-generates tarballs at /archive/refs/tags/<tag>.tar.gz
-# Run `make dist` to regenerate checksums after tagging.
-# Updated: 2026-06-08
+# Generated: 2026-06-08
 
-mlisp  https://github.com/denzuko/mlisp/archive/refs/tags/v0.2.0.tar.gz  0  -  -  mlisp-v0.2.0  mlisp-v0.2.0/mlisp.asd mlisp-v0.2.0/mlisp-test.asd mlisp-v0.2.0/src/package.lisp mlisp-v0.2.0/src/state.lisp mlisp-v0.2.0/src/parser.lisp mlisp-v0.2.0/src/commands.lisp mlisp-v0.2.0/src/troff.lisp mlisp-v0.2.0/src/mta.lisp mlisp-v0.2.0/src/main.lisp
+mlisp  https://github.com/denzuko/mlisp/archive/refs/tags/v0.3.0.tar.gz  0  -  -  mlisp-v0.3.0  mlisp-v0.3.0/mlisp.asd mlisp-v0.3.0/mlisp-admin.asd mlisp-v0.3.0/mlisp-distrib.asd mlisp-v0.3.0/mlisp-test.asd
