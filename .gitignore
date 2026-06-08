@@ -1,0 +1,2 @@
+# Don't track submodule working trees — just the pointer
+# (submodule contents tracked via .gitmodules)

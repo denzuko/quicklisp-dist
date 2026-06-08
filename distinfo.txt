@@ -1,0 +1,6 @@
+name: denzuko
+version: 2026-06-08
+system-index-url: https://raw.githubusercontent.com/denzuko/quicklisp-dist/main/systems.txt
+release-index-url: https://raw.githubusercontent.com/denzuko/quicklisp-dist/main/releases.txt
+archive-base-url: https://github.com/denzuko/
+canonical-distinfo-url: https://raw.githubusercontent.com/denzuko/quicklisp-dist/main/distinfo.txt

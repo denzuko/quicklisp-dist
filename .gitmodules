@@ -1,0 +1,4 @@
+[submodule "packages/mlisp"]
+	path = packages/mlisp
+	url = https://github.com/denzuko/mlisp.git
+	branch = main
